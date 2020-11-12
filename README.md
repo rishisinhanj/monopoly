@@ -10,23 +10,23 @@ or alternatively, run the program in IDLE or editor of your choice
 ## Commands:
 ```go <name>```
 
-__name__ passed Go, collect 200
+*__name__* passed Go, collect 200
 
 ```fp <name>```
 
-__name__ landed on free parking, collect all free parking money
+*__name__* landed on free parking, collect all free parking money
 
 ```<name> <amount>```
 
-transfer __amount__ from __name__ to bank
+transfer  *__amount__* from  *__name__* to bank
 
 ```<amount> <name>``` 
 
-transfer __amount__ from bank to __name__ 
+transfer  *__amount__* from bank to  *__name__* 
 
 ```<name1> <amount> <name2>```
 
-transfer __amount__ from __name1__ to __name2__
+transfer  *__amount__* from  *__name1__* to  *__name2__*
 
 ## Sample Game:
 ```
